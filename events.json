@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Book Launch: \"Midnight Secrets\"",
+        "day": "15",
+        "month": "June",
+        "time": "6:00 PM - 8:00 PM",
+        "locationIcon": "fas fa-map-marker-alt",
+        "location": "Lowell's City of Books, Mbarara, WST",
+        "description": "Join me for the launch of my latest thriller. Reading, Q&A, and book signing.",
+        "buttonText": "RSVP Now",
+        "buttonLink": "#",
+        "featured": true,
+        "status": "upcoming"
+    },
+    {
+        "id": 2,
+        "title": "Writing Workshop: Crafting Suspense",
+        "day": "22",
+        "month": "July",
+        "time": "2:00 PM - 4:00 PM",
+        "locationIcon": "fas fa-map-marker-alt",
+        "location": "Sea Public Library, Kampala",
+        "description": "A two-hour workshop on building tension and creating page-turning suspense in fiction.",
+        "buttonText": "Learn More",
+        "buttonLink": "#",
+        "featured": false,
+        "status": "upcoming"
+    },
+    {
+        "id": 3,
+        "title": "Virtual Book Club Discussion",
+        "day": "10",
+        "month": "August",
+        "time": "7:00 PM EST",
+        "locationIcon": "fas fa-video",
+        "location": "Online Event",
+        "description": "Join me for a live discussion of \"The Silent Witness\" with readers from around the world.",
+        "buttonText": "Register Free",
+        "buttonLink": "#",
+        "featured": true,
+        "status": "upcoming"
+    },
+    {
+        "id": 4,
+        "title": "Author Talk at Literary Festival",
+        "day": "5",
+        "month": "September",
+        "time": "3:00 PM",
+        "locationIcon": "fas fa-map-marker-alt",
+        "location": "City Public Library, Soroti",
+        "description": "Panel discussion with other mystery authors about the future of the genre.",
+        "buttonText": "Get Tickets",
+        "buttonLink": "#",
+        "featured": false,
+        "status": "upcoming"
+    }
+]

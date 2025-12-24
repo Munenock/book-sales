@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "title": "The Silent Witness",
+        "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 20000",
+        "badges": ["Bestseller", "Award Winner"],
+        "description": "A psychological thriller that will keep you guessing until the final page.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 2,
+        "title": "Midnight Secrets",
+        "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 30000",
+        "badges": ["New Release", "Pre-order"],
+        "description": "A historical mystery set in 1920s Paris. Now available for pre-order.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 3,
+        "title": "Echoes of the Past",
+        "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 43000",
+        "badges": ["Bestseller", "Book Club Pick"],
+        "description": "A family saga spanning three generations and two continents.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 4,
+        "title": "Shadows in the Fog",
+        "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 29000",
+        "badges": ["Thriller", "Series"],
+        "description": "The first book in the Detective Marlowe series. A chilling mystery.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    }, {
+        "id": 1,
+        "title": "The Silent Witness",
+        "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 20000",
+        "badges": ["Bestseller", "Award Winner"],
+        "description": "A psychological thriller that will keep you guessing until the final page.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 2,
+        "title": "Midnight Secrets",
+        "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 30000",
+        "badges": ["New Release", "Pre-order"],
+        "description": "A historical mystery set in 1920s Paris. Now available for pre-order.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 3,
+        "title": "Echoes of the Past",
+        "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 43000",
+        "badges": ["Bestseller", "Book Club Pick"],
+        "description": "A family saga spanning three generations and two continents.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    },
+    {
+        "id": 4,
+        "title": "Shadows in the Fog",
+        "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+        "price": "Ugx 29000",
+        "badges": ["Thriller", "Series"],
+        "description": "The first book in the Detective Marlowe series. A chilling mystery.",
+        "amazonLink": "#",
+        "signedLink": "#"
+    }
+]

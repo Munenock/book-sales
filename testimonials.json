@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "testimonialId": "testimonial1",
+        "quote": "I couldn't put it down! The plot twists kept me guessing until the very last page. Mungati enock has mastered the art of suspense.",
+        "author": "Sarah Johnson",
+        "source": "Times Book Review",
+        "rating": 5,
+        "active": true
+    },
+    {
+        "id": 2,
+        "testimonialId": "testimonial2",
+        "quote": "A masterpiece of historical fiction. enock transports you to another time and place with such vivid detail you feel like you're living the story.",
+        "author": "Michael Kitaaka",
+        "source": "BookPage",
+        "rating": 5,
+        "active": false
+    },
+    {
+        "id": 3,
+        "testimonialId": "testimonial3",
+        "quote": "The character development is extraordinary. I found myself thinking about these characters long after I finished the book.",
+        "author": "Jessica Nakamate",
+        "source": "Goodreads Review",
+        "rating": 5,
+        "active": false
+    }
+    ,
+    {
+        "id": 3,
+        "testimonialId": "testimonial3",
+        "quote": "The character development is extraordinary. I found myself thinking about these characters long after I finished the book.",
+        "author": "Jessica Nakamate",
+        "source": "Goodreads Review",
+        "rating": 5,
+        "active": false
+    }
+]
