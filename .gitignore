@@ -1,4 +1,4 @@
-main.scss
-main.css.map
+dist/main.scss
+dist/main.css.map
 # Local Netlify folder
 .netlify
