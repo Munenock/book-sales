@@ -1,6 +1,3 @@
-dist/main.scss
-dist/main.css.map
-# Local Netlify folder
 .netlify
 dist
 node_modules
