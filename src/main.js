@@ -3,7 +3,7 @@
 // Fetch from local JSON file
 async function fetchBooks() {
     try {
-        const response = await fetch('books.json');
+        const response = await fetch('./books.json');
         const books = await response.json();
         loadBooks(books);
     } catch (error) {
@@ -12,7 +12,7 @@ async function fetchBooks() {
 }
 async function fetchTestimonials() {
     try {
-        const response = await fetch('testimonials.json');
+        const response = await fetch('./testimonials.json');
         const testimonials = await response.json();
         loadTestimonials(testimonials);
     } catch (error) {
@@ -21,7 +21,7 @@ async function fetchTestimonials() {
 }
 async function fetchEvents() {
     try {
-        const response = await fetch('events.json');
+        const response = await fetch('./events.json');
         const events = await response.json();
         loadEvents(events);
     } catch (error) {

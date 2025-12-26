@@ -2,3 +2,11 @@ dist/main.scss
 dist/main.css.map
 # Local Netlify folder
 .netlify
+dist
+node_modules
+.DS_Store
+.env
+.vscode
+.cache
+.parcel-cache
+

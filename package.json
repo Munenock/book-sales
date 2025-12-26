@@ -1,10 +1,12 @@
 {
   "name": "enock",
   "version": "1.0.0",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+   "scripts": {
+    "start": "parcel src/index.html",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html && npm run copy:assets",
+    "copy:assets": "copyfiles -u 1 \"src/*.json\" \"assets/**/*\" \"public/**/*\" dist/",
+    "clean:build": "rimraf dist && npm run build"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Munenock/book-sales.git"
@@ -15,5 +17,17 @@
     "url": "https://github.com/Munenock/book-sales/issues"
   },
   "homepage": "https://github.com/Munenock/book-sales#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "parcel": "^2.16.3",
+    "parcel-plugin-copy": "^1.0.2"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+    "parcel": {
+    "publicUrl": "./"
+  }
 }
